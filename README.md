@@ -7,7 +7,7 @@ DATABASE : sqlite3
 Steps to Execute Project:
 1) Install VirtualEnv : pip install virtalenv
 2) Create VirtualEnv : virtualenv venv
-3) Install requirements : Navigate to requirements file path and execute the following command.
+3) Install requirements : Navigate to~~~~ requirements file path and execute the following command.
                 pip install -r requirements.txt          
 
 Project Details :
